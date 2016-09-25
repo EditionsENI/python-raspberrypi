@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<body>
+    <commandes>
+        <commande code="HP03" quantite="2">
+            Imprimante HP
+        </commande>
+        <commande code="RP04" quantite="4">
+            Raspberry Pi 1 version B+
+        </commande>
+        <commande code="IB02" quantite="2">
+            Souris IBM
+        </commande>
+    </commandes>
+</body>
